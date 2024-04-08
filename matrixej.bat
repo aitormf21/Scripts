@@ -1,0 +1,21 @@
+@echo off
+start "" cmd /c matrix.bat
+start "" cmd /c matrix.bat
+start "" cmd /c matrix.bat
+start "" cmd /c matrix.bat
+start "" cmd /c matrix.bat
+start "" cmd /c matrix.bat
+start "" cmd /c matrix.bat
+start "" cmd /c matrix.bat
+start "" cmd /c matrix.bat
+start "" cmd /c matrix.bat
+start "" cmd /c matrix.bat
+start "" cmd /c matrix.bat
+start "" cmd /c matrix.bat
+start "" cmd /c matrix.bat
+start "" cmd /c matrix.bat
+start "" cmd /c matrix.bat
+start "" cmd /c matrix.bat
+start "" cmd /c matrix.bat
+start "" cmd /c matrix.bat
+start "" cmd /c matrix.bat
